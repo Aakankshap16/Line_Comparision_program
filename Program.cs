@@ -9,7 +9,8 @@ namespace LineComparision
           {
             Console.WriteLine("Welcome to Line Comparison Computation Program");
             //CalculateLength.call();
-            LengthCheck.call();
+            // LengthCheck.call();
+            comparision.call();
 
           }
         }
