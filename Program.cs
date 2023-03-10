@@ -8,7 +8,9 @@ namespace LineComparision
           public static void Main(string[] args)
           {
             Console.WriteLine("Welcome to Line Comparison Computation Program");
-            CalculateLength.call();
+            //CalculateLength.call();
+            LengthCheck.call();
+
           }
         }
 }
